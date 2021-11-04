@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Surya R R",
+    "occupation": "'Quality Analyst @ Amazon",
+    "description": "A very determined and self-taught person",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Surya!. I've been working with Amazon as a Quality Analyst for 2 years and 4 months now. As a Quality Analyst I perform Manual and Automation Testing with Amazon's upcoming and existing devices and collaborate with Robotics Development Team in upgrading and enhancing tool UI used by the Data collection team. Along the journey I realised my passion existed in learning and improving myself on a daily basis. I strongly believe that learning never stops and I try my best to excel and explore new technologies.",
+    "email": "suryacta.1997@gmail.com",
+    "phone": "9952225771",
+    "address": {
+      "street": "5/487, Sathsangam street, Madipakkam",
+      "city": "Chennai",
+      "state": "Tamilnadu",
+      "zip": "600091"
+    },
+       "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/surya.narayanan.5076/",
+        "className": "Surya-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/surya_narayanan07/",
+        "className": "Surya-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Suryacta",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Peri Institute of Technology",
+        "degree": "Bachelor's Degree, Mechanical Engineering",
+        "graduated": "July 2018",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Amazon",
+        "title": "Quality Analyst",
+        "years": "June 2019 - Present",
+        "description": "Manual and Automation Testing,  contributed towards Front-End as well."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Selenium",
+        "level": "35%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "55%"
+      },
+      {
+        
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        
+        "name": "CSS",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Rapid turtles(React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://rapidturtles.com"
+      },
+      {
+        "title": "Censcaff rentals (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://censcaffrentalservices.com"
+      },
+      {
+        "title": "Censcaff Engineers ",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://censcaff.in"
+      },
+      {
+        "title": "netflix-clone (React JS)",
+        "category": "",
+        "image": "netflix.jpg",
+        "url": "https://github.com/Suryacta/netflix-clone.git"
+      }
+    ]
+  }
+  }
+
